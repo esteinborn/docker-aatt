@@ -1,5 +1,5 @@
 FROM node:latest
-MAINTAINER UCF Project <ucf-project@alterway.fr>
+MAINTAINER Eric Steinborn
 
 # Install AATT
 # Note: There are no versions/tags but have opened a new issue here: https://github.com/paypal/AATT/issues/33
