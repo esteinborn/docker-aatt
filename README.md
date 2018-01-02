@@ -21,7 +21,7 @@ For node applications, it can be integrated into [NemoJS testing framework](http
 ## Building and Running
 
 ```sh
-$ docker run -d docker-aatt
+$ docker run -d esteinborn/docker-aatt
 
 ```
 
