@@ -6,7 +6,7 @@ MAINTAINER Eric Steinborn
 # Using latest confirmed working commit HASH
 RUN git clone https://github.com/paypal/AATT.git && \
     cd AATT/ && \
-    git checkout 5be1db391a56bca865f5ed0311a950767203aaa4 && \
+    git checkout 9d61dd5c713176135574389ac4cf4fa01bb12af8 && \
     npm install --unsafe-perm --quiet && \
     git submodule init && \
     git submodule update
